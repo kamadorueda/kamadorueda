@@ -12,7 +12,7 @@ This guy:
   on [his machine](https://github.com/kamadorueda/machine)
 - Created:
   - [Makes](https://github.com/fluidattacks/makes)
-  - [Nixpkgs Python](https://github.com/kamadorueda/nixpkgs-python)
+  - [Python on Nix](https://github.com/kamadorueda/python-on-nix)
 - Works at [Fluid Attacks](https://fluidattacks.com)
   - See my contributions [here](https://gitlab.com/fluidattacks/product/-/commits/master?author=Kevin%20Amado)
 - Is enthusiast about
