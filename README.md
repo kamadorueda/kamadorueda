@@ -1,8 +1,3 @@
-
-<a href='https://ko-fi.com/kamadorueda'>
-<img border='0' height='30' style='border:0px;height:30px;'
-  src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3'
-  alt='Buy Me a Coffee at ko-fi.com' /></a>
 <a href="https://www.patreon.com/kamadorueda">
 <img border='0' height='30' style='border:0px;height:30px;'
   src='https://miro.medium.com/max/1302/1*9zVwK_aiFA14Y2MN571QQw.png'
