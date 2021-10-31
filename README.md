@@ -15,6 +15,10 @@ This guy:
 - Created:
   - :unicorn: [Makes](https://github.com/fluidattacks/makes) -
     _The modern CI/CD framework_
+  - [On Nix](https://github.com/on-nix) -
+    _Towards running production on Nix easily, and beyond!_
+  - [Pkgs on Nix](https://github.com/on-nix/pkgs) -
+    _Curated information about every package on Nix_
   - [Python on Nix](https://github.com/on-nix/python) -
     _Collection of Python projects from PyPI, for Nix_
   - [Aioextensions](https://fluidattacks.github.io/aioextensions) -
