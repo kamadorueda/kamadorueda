@@ -9,8 +9,6 @@ Hi there 👋
 
 This guy:
 - Has awesome sponsors :revolving_hearts: of his open source work on
-  [:coffee: Ko-fi](https://ko-fi.com/kamadorueda)
-  and
   [:star2: Patreon](https://www.patreon.com/kamadorueda)!
 - Created:
   - :unicorn: [Makes](https://github.com/fluidattacks/makes) -
