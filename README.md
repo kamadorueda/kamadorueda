@@ -11,6 +11,8 @@ This guy:
 - Has awesome sponsors :revolving_hearts: of his open source work on
   [:star2: Patreon](https://www.patreon.com/kamadorueda)!
 - Created:
+  - :sparkles: [Modern Terminal](https://github.com/kamadorueda/modern-terminal) -
+    _Rust library for rich text and beautiful formatting_
   - :unicorn: [Makes](https://github.com/fluidattacks/makes) -
     _The modern CI/CD framework_
   - [On Nix](https://github.com/on-nix) -
