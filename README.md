@@ -36,8 +36,8 @@ This guy:
   - 2021-05 |
     [Security Grid](https://www.meetup.com/security-grid/) |
     [Better than Docker: Nix!](https://youtu.be/XKZOSWaVyDY)
-- Worked at [Fluid Attacks](https://fluidattacks.com)
-  - See my contributions [here](https://gitlab.com/fluidattacks/product/-/commits/master?author=Kevin%20Amado)
+<!-- - Worked at [Fluid Attacks](https://fluidattacks.com)
+  - See my contributions [here](https://gitlab.com/fluidattacks/product/-/commits/master?author=Kevin%20Amado) -->
 - Takes care of the garden! 🌳
 - Uses [NixOS](https://nixos.org)
   on [his machine](https://github.com/kamadorueda/machine)
