@@ -11,16 +11,18 @@ This guy:
 - Has awesome sponsors :revolving_hearts: of his open source work on
   [:star2: Patreon](https://www.patreon.com/kamadorueda)!
 - Created:
-  - :sparkles: [Modern Terminal](https://github.com/kamadorueda/modern-terminal) -
-    _Rust library for rich text and beautiful formatting_
+  - :nail_care: [Alejandra](https://github.com/kamadorueda/alejandra) -
+    _The uncompromising Nix code formatter_
   - :unicorn: [Makes](https://github.com/fluidattacks/makes) -
     _The modern CI/CD framework_
+  - :sparkles: [Python on Nix](https://github.com/on-nix/python) -
+    _Collection of Python projects from PyPI, for Nix_
   - [On Nix](https://github.com/on-nix) -
     _Towards running production on Nix easily, and beyond!_
   - [Pkgs on Nix](https://github.com/on-nix/pkgs) -
     _Curated information about every package on Nix_
-  - [Python on Nix](https://github.com/on-nix/python) -
-    _Collection of Python projects from PyPI, for Nix_
+  - [Modern Terminal](https://github.com/kamadorueda/modern-terminal) -
+    _Rust library for rich text and beautiful formatting_
   - [Aioextensions](https://fluidattacks.github.io/aioextensions) -
     _High performance functions to work with the Python async IO_
   - [Metaloaders](https://kamadorueda.github.io/metaloaders) -
