@@ -17,6 +17,8 @@ This guy:
     _The modern CI/CD framework_
   - :sparkles: [Python on Nix](https://github.com/on-nix/python) -
     _Collection of Python projects from PyPI, for Nix_
+  - :desktop_computer: [Machine](https://github.com/kamadorueda/machine) -
+    _My OS, development tools, and dotfiles, as code_ 
   - [On Nix](https://github.com/on-nix) -
     _Towards running production on Nix easily, and beyond!_
   - [Pkgs on Nix](https://github.com/on-nix/pkgs) -
