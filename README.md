@@ -6,6 +6,8 @@ This guy:
 - Created:
   - :nail_care: [Alejandra](https://github.com/kamadorueda/alejandra) -
     _The uncompromising Nix code formatter_
+  - :leopard: [Santiago](https://github.com/kamadorueda/santiago) -
+    _A lexing and parsing toolkit for Rust_
   - :sparkles: [Python on Nix](https://github.com/on-nix/python) -
     _Collection of Python projects from PyPI, for Nix_
   - :desktop_computer: [Machine](https://github.com/kamadorueda/machine) -
