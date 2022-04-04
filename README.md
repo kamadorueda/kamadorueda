@@ -8,6 +8,8 @@ This guy:
     _The uncompromising Nix code formatter_
   - :leopard: [Santiago](https://github.com/kamadorueda/santiago) -
     _A lexing and parsing toolkit for Rust_
+  - :dragon: [NixEL](https://github.com/kamadorueda/nixel) -
+    _Lexer, Parser, Abstract Syntax Tree and Concrete Syntax Tree for the Nix Expressions Language_
   - :sparkles: [Python on Nix](https://github.com/on-nix/python) -
     _Collection of Python projects from PyPI, for Nix_
   - :desktop_computer: [Machine](https://github.com/kamadorueda/machine) -
