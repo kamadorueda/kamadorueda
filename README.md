@@ -43,7 +43,7 @@ and
 [Free Software](https://www.fsf.org/about/what-is-free-software).
 
 Feel free to
-[sponsor me](https://patreon.com/kamadorueda)
+[sponsor me](https://github.com/sponsors/kamadorueda)
 if you like the things I'm doing,
 or talk to me about an awesome position at your company!
 
