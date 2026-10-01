@@ -3,13 +3,6 @@ Hi there 👋
 I'm a software developer from Colombia 🇨🇴
 living in Canada 🇨🇦.
 
-You can find more about me at
-[kamadorueda.com](https://kamadorueda.com),
-on
-[LinkedIn](https://linkedin.com/in/kamadorueda),
-and on
-[Instagram](https://instagram.com/kamadorueda).
-
 I build and run apps like:
 
 - 📈 [Picks](https://picks.kamadorueda.com)
