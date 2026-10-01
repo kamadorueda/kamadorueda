@@ -5,8 +5,10 @@ living in Canada 🇨🇦.
 
 You can find more about me at
 [kamadorueda.com](https://kamadorueda.com)
+on
+[LinkedIn](https://linkedin.com/in/kamadorueda),
 and on
-[LinkedIn](https://linkedin.com/in/kamadorueda).
+[Instagram](https://instagram.com/kamadorueda).
 
 I build and run apps like:
 
