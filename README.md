@@ -4,7 +4,7 @@ I'm a software developer from Colombia 🇨🇴
 living in Canada 🇨🇦.
 
 You can find more about me at
-[kamadorueda.com](https://kamadorueda.com)
+[kamadorueda.com](https://kamadorueda.com),
 on
 [LinkedIn](https://linkedin.com/in/kamadorueda),
 and on
@@ -15,7 +15,7 @@ I build and run apps like:
 - 📈 [Picks](https://picks.kamadorueda.com)
   Investment research.
 - 🎶 [Coro](https://coro.kamadorueda.com)
-  Ear-training for salsa rhythms.
+  Your tools for learning salsa: lessons, song stories, patterns, technique, and a rhythm mixer.
 
 I'm the creator of projects like:
 
