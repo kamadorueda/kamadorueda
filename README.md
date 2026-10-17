@@ -12,6 +12,15 @@ I build and run apps like:
   Everything you need to learn salsa:
   lessons, song stories, dance patterns, technique,
   and a rhythm mixer to practice with your own band.
+- 🚗 [Class 7 Coach](https://drive.kamadorueda.com)
+  Free practice for the Alberta Class 7 learner's knowledge test:
+  practice by topic, or take a 30-question practice exam.
+- ✍️ [Sign](https://sign.kamadorueda.com)
+  Fill and sign PDF files in your browser,
+  or share one with an encrypted link that expires after 7 days.
+- ♟️ [Chess Tactics Trainer](https://chess.kamadorueda.com)
+  Rated tactics puzzles in the browser:
+  forks, pins, skewers, and more.
 
 I'm the creator of projects like:
 
@@ -22,7 +31,7 @@ I'm the creator of projects like:
   Fast, reliable, and beautiful by default.
 - 🦄 [Makes](https://github.com/fluidattacks/makes)
   A software supply chain framework powered by Nix,
-  for reproducible CI/CD in production.
+  for reproducible CI/CD in production (archived).
 - ✨ [Std](https://github.com/divnix/std)
   The Nix Flakes framework for perfectionists with deadlines
   (now maintained by [@blaggacao](https://github.com/blaggacao)).
