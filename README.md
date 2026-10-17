@@ -18,9 +18,6 @@ I build and run apps like:
 - ✍️ [Sign](https://sign.kamadorueda.com)
   Fill and sign PDF files in your browser,
   or share one with an encrypted link that expires after 7 days.
-- ♟️ [Chess Tactics Trainer](https://chess.kamadorueda.com)
-  Rated tactics puzzles in the browser:
-  forks, pins, skewers, and more.
 
 I'm the creator of projects like:
 
