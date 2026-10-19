@@ -5,19 +5,17 @@ living in Canada 🇨🇦.
 
 I build and run apps like:
 
-- 📈 [Picks](https://picks.kamadorueda.com)
+- 📈 [Picks](https://picks.utilarium.app)
   Stock research at a glance:
   fair value, discount, moat, and analyst rating for every stock on the list.
-- 🎶 [Coro](https://coro.kamadorueda.com)
+- 🎶 [Coro](https://coro.utilarium.app)
   Everything you need to learn salsa:
   lessons, song stories, dance patterns, technique,
   and a rhythm mixer to practice with your own band.
-- 🚗 [Class 7 Coach](https://drive.kamadorueda.com)
-  Free practice for the Alberta Class 7 learner's knowledge test:
-  practice by topic, or take a 30-question practice exam.
-- ✍️ [Sign](https://sign.kamadorueda.com)
-  Fill and sign PDF files in your browser,
-  or share one with an encrypted link that expires after 7 days.
+- 🧰 [Utilarium](https://utilarium.app)
+  Free tools that work in your browser, with no sign-up:
+  practice tests for driving and trade exams,
+  PDF signing, image and PDF tools, calculators, and more.
 
 I'm the creator of projects like:
 
