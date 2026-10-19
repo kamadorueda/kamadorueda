@@ -5,15 +5,10 @@ living in Canada 🇨🇦.
 
 I build and run apps like:
 
-- 📈 [Picks](https://picks.utilarium.app)
-  Stock research at a glance:
-  fair value, discount, moat, and analyst rating for every stock on the list.
-- 🎶 [Coro](https://coro.utilarium.app)
-  Everything you need to learn salsa:
-  lessons, song stories, dance patterns, technique,
-  and a rhythm mixer to practice with your own band.
 - 🧰 [Utilarium](https://utilarium.app)
-  Free tools that work in your browser, with no sign-up:
+  Free tools and apps that work in your browser, with no sign-up:
+  [Picks](https://picks.utilarium.app) for stock research,
+  [Coro](https://coro.utilarium.app) to learn salsa,
   practice tests for driving and trade exams,
   PDF signing, image and PDF tools, calculators, and more.
 
