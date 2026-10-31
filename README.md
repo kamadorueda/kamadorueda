@@ -10,7 +10,8 @@ I build and run apps like:
   [Picks](https://picks.utilarium.app) for stock research,
   [Coro](https://coro.utilarium.app) to learn salsa,
   practice tests for driving and trade exams,
-  PDF signing, image and PDF tools, calculators, and more.
+  PDF signing, image and PDF tools, calculators, and more,
+  in many languages.
 
 I'm the creator of projects like:
 
@@ -19,6 +20,7 @@ I'm the creator of projects like:
 - 💅 [Alejandra](https://github.com/kamadorueda/alejandra)
   The uncompromising Nix code formatter.
   Fast, reliable, and beautiful by default.
+  Try it online at [alejandra.kamadorueda.com](https://alejandra.kamadorueda.com).
 - 🦄 [Makes](https://github.com/fluidattacks/makes)
   A software supply chain framework powered by Nix,
   for reproducible CI/CD in production (archived).
@@ -53,6 +55,8 @@ I'm the creator of projects like:
   JSON and YAML loaders that keep line and column numbers.
 - 🔀 [Mailmap-Linter](https://github.com/kamadorueda/mailmap-linter)
   A small tool that is easy to install and use, to keep your Git mailmap clean.
+- 🔐 [Oblivion](https://github.com/kamadorueda/oblivion)
+  An RSA encryption and decryption client.
 
 I have also contributed to
 (or regularly contribute to)
