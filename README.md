@@ -21,6 +21,10 @@ I'm the creator of projects like:
   The uncompromising Nix code formatter.
   Fast, reliable, and beautiful by default.
   Try it online at [alejandra.kamadorueda.com](https://alejandra.kamadorueda.com).
+- 🔎 [nixpkgs-ctl](https://nixpkgs-ctl.kamadorueda.com)
+  A phone-first review queue for Nixpkgs update pull requests:
+  risk, rebuilds, CI, and maintainers at a glance
+  ([about](https://nixpkgs-ctl.kamadorueda.com/about/)).
 - 🦄 [Makes](https://github.com/fluidattacks/makes)
   A software supply chain framework powered by Nix,
   for reproducible CI/CD in production (archived).
