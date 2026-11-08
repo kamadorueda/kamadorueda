@@ -53,8 +53,9 @@ I'm the creator of projects like:
 
 - ⚡ [Aioextensions](https://github.com/fluidattacks/aioextensions)
   High-performance helpers for Python's asyncio.
-- 🔭 [Tracers](https://github.com/fluidattacks/tracers)
-  Open-source application performance monitoring (APM).
+- 🔭 [Tracers](https://pypi.org/project/tracers/)
+  Open-source application performance monitoring (APM)
+  (the source repository is no longer public).
 - 📄 [Metaloaders](https://github.com/kamadorueda/metaloaders)
   JSON and YAML loaders that keep line and column numbers.
 - 🔀 [Mailmap-Linter](https://github.com/kamadorueda/mailmap-linter)
