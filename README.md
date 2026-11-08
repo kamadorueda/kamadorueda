@@ -3,28 +3,45 @@ Hi there 👋
 I'm a software developer from Colombia 🇨🇴
 living in Canada 🇨🇦.
 
-I build and run apps like:
+I build and run these apps:
 
+- 🔎 [nixpkgs-ctl](https://nixpkgs-ctl.kamadorueda.com)
+  A phone-first review queue for Nixpkgs update pull requests:
+  risk, rebuilds, CI, and maintainers at a glance
+  ([about](https://nixpkgs-ctl.kamadorueda.com/about/)).
 - 🧰 [Utilarium](https://utilarium.app)
-  Free tools and apps that work in your browser, with no sign-up:
-  [Picks](https://picks.utilarium.app) for stock research,
-  [Coro](https://coro.utilarium.app) to learn salsa,
-  practice tests for driving and trade exams,
-  PDF signing, image and PDF tools, calculators, and more,
-  in many languages.
+  Free tools and apps that work in your browser, with no sign-up,
+  in many languages. For example:
+  - 📈 [Picks](https://picks.utilarium.app)
+    Stock research.
+  - 💃 [Coro](https://coro.utilarium.app)
+    Learn to dance salsa.
+  - 📓 [Journal](https://journal.utilarium.app)
+    A private journal that stays on your device.
 
-I'm the creator of projects like:
+  And also practice tests for driving and trade exams,
+  PDF signing, image and PDF tools, calculators, and more.
+- 🏠 [kamadorueda.com](https://kamadorueda.com)
+  My website: projects, thoughts, investing, and art.
 
-**Nix ecosystem**
+I maintain these projects:
 
 - 💅 [Alejandra](https://github.com/kamadorueda/alejandra)
   The uncompromising Nix code formatter.
   Fast, reliable, and beautiful by default.
   Try it online at [alejandra.kamadorueda.com](https://alejandra.kamadorueda.com).
-- 🔎 [nixpkgs-ctl](https://nixpkgs-ctl.kamadorueda.com)
-  A phone-first review queue for Nixpkgs update pull requests:
-  risk, rebuilds, CI, and maintainers at a glance
-  ([about](https://nixpkgs-ctl.kamadorueda.com/about/)).
+- 💻 [Machine](https://github.com/kamadorueda/machine)
+  My operating system, development tools, and dotfiles, all as code.
+- 🐃 [B3](https://github.com/kamadorueda/b3)
+  Reproducible builds, development environments, and deployments.
+- 🐆 [Santiago](https://github.com/kamadorueda/santiago)
+  A lexing and parsing toolkit for Rust.
+- 🔀 [Mailmap-Linter](https://github.com/kamadorueda/mailmap-linter)
+  A small tool that is easy to install and use, to keep your Git mailmap clean.
+
+<details>
+<summary>Past projects (no longer maintained)</summary>
+
 - 🦄 [Makes](https://github.com/fluidattacks/makes)
   A software supply chain framework powered by Nix,
   for reproducible CI/CD in production (archived).
@@ -37,20 +54,8 @@ I'm the creator of projects like:
   Every package from every version, commit, and channel of Nixpkgs, in one database.
 - 🐉 [Nixel](https://github.com/kamadorueda/nixel)
   A fast and complete parser for the Nix Expression Language.
-- 🐃 [B3](https://github.com/kamadorueda/b3)
-  Reproducible builds, development environments, and deployments.
-- 💻 [Machine](https://github.com/kamadorueda/machine)
-  My operating system, development tools, and dotfiles, all as code.
-
-**Rust**
-
-- 🐆 [Santiago](https://github.com/kamadorueda/santiago)
-  A lexing and parsing toolkit for Rust.
 - 🖥️ [Modern-Terminal](https://github.com/kamadorueda/modern-terminal)
   Rich text and beautiful formatting for the terminal.
-
-**Python and tooling**
-
 - ⚡ [Aioextensions](https://github.com/fluidattacks/aioextensions)
   High-performance helpers for Python's asyncio.
 - 🔭 [Tracers](https://pypi.org/project/tracers/)
@@ -58,10 +63,10 @@ I'm the creator of projects like:
   (the source repository is no longer public).
 - 📄 [Metaloaders](https://github.com/kamadorueda/metaloaders)
   JSON and YAML loaders that keep line and column numbers.
-- 🔀 [Mailmap-Linter](https://github.com/kamadorueda/mailmap-linter)
-  A small tool that is easy to install and use, to keep your Git mailmap clean.
 - 🔐 [Oblivion](https://github.com/kamadorueda/oblivion)
   An RSA encryption and decryption client.
+
+</details>
 
 I have also contributed to
 (or regularly contribute to)
